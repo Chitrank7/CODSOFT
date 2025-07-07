@@ -8,7 +8,7 @@ public class Task4_StudentManagementSystem {
         Scanner sc = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n🎓 Student Management System");
+            System.out.println("\n Student Management System");
             System.out.println("1. Add Student");
             System.out.println("2. Remove Student");
             System.out.println("3. Edit Student");
@@ -200,7 +200,7 @@ class StudentManagementSystem {
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(FILE_NAME))) {
             return (List<Student>) ois.readObject();
         } catch (IOException | ClassNotFoundException e) {
-            System.out.println("⚠ Error loading students: " + e.getMessage());
+            System.out.println(" Error loading students: " + e.getMessage());
             return new ArrayList<>();
         }
     }
