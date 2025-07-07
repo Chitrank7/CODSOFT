@@ -1,6 +1,6 @@
-📘 Java Internship Tasks – Codesoft
+📘 Java Internship Tasks – CodSoft
 
-This repository contains my solutions to the internship tasks in Java Programming, assigned as part of my internship at Codesoft.
+This repository contains my solutions to the internship tasks in Java Programming, assigned as part of my internship at CodSoft.
 Each task demonstrates a specific concept of Java, including file handling, OOP, input validation, and more.
 
 
@@ -87,7 +87,7 @@ Uses OOP concepts: Student class and StudentManagementSystem class.
 👨‍💻 Internship Details
 
 ✨ Internship: Java Programming Internship
-✨ Organization: Codesoft
+✨ Organization: CodSoft
 ✨ Duration: [10 JUNE 2025 - 10 JULY 2025]
 
 
