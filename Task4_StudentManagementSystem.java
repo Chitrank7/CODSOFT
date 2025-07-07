@@ -189,7 +189,7 @@ class StudentManagementSystem {
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(FILE_NAME))) {
             oos.writeObject(students);
         } catch (IOException e) {
-            System.out.println("⚠ Error saving students: " + e.getMessage());
+            System.out.println(" Error saving students: " + e.getMessage());
         }
     }
 
