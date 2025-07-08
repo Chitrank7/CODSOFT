@@ -85,7 +85,7 @@ Uses OOP concepts: Student class and StudentManagementSystem class.
 ---
 
 👨‍💻 Internship Details
-
+✨ Intern Name - Chitrank Bhatt 
 ✨ Internship: Java Programming Internship
 ✨ Organization: CodSoft
 ✨ Duration: [10 JUNE 2025 - 10 JULY 2025]
