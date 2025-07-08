@@ -1,5 +1,5 @@
 📘 Java Internship Tasks – CodSoft
-INTERN NAME - CHITRANK BHATT
+  ✨ [INTERN NAME - CHITRANK BHATT ]
 
 This repository contains my solutions to the internship tasks in Java Programming, assigned as part of my internship at CodSoft.
 Each task demonstrates a specific concept of Java, including file handling, OOP, input validation, and more.
