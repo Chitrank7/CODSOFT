@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Task4_StudentManagementSystem {
+public class Task5_StudentManagementSystem {
 
     public static void main(String[] args) {
         StudentManagementSystem sms = new StudentManagementSystem();
